@@ -1,1 +1,3 @@
 Latihan brench
+-menambahkan repository
+-belajar menggabungkan brench ke brench master
